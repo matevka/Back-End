@@ -1,0 +1,9 @@
+
+#NPM Init and package.json
+
+*Use the "--save" flag to install packages
+-Update dependencies inside the package.json file
+*Explain what the package.json file does
+-provides information about all the packages 
+which has been used to create the accompanied app
+*Use "npm init" to create a new package.json

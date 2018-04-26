@@ -1,0 +1,9 @@
+Hello from the message.txt file
+
+ls - stands for list, listing all the files/folders in the workspace we are in
+cd - moving among the workspaces
+cd .. - move one level back
+touch - create new files, adding file extension is required.
+mkdir - make directory
+rm - remove / delete individual files
+rm -rf = delete entire directries

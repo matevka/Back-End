@@ -1,0 +1,12 @@
+#Intro To Express
+
+*What is a framework? How is it different from a library?
+-framework is a buch of code someone else has written for us,
+just like libraries, hovewer with frameworks we 
+only have blank spots to fill in, with less control
+*what is Express?
+-A Node.js framework.
+*Why are we using Express?
+-because is extra lightweight, very popular,
+theres a lots and lots of tutorials, contributors
+and topics about it.

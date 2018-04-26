@@ -1,0 +1,22 @@
+    #Intro To NPM
+
+*Define NPM
+-Node Package Manager / aka the way to add external
+libraries to Node (like express, mongoose etc)
+*Explain why NPM is awesome
+-Easy to use, adding packages install them etc..
+*Intro the packages we will end up using
+-we are surely going to use the following packages:
+-Express
+-Mongoose
+-Morgan
+-Ejs
+-Body - Parcer
+-etc
+
+    #Installing and Using Packages
+
+*Use "npm install" to install a package
+*Use "require()" to include a package
+
+
